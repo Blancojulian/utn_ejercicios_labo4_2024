@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.links-nav{
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+}
